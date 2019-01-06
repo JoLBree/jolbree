@@ -129,8 +129,12 @@ p{
 	height: 100px;
 }
 
-.broad-icon{
-	text-align: center;
+.cds-icon{
+	width: 205px;
+}
+
+.broad-cds-wrapper {
+	padding: 10px 0;
 }
 
 .course-icon{
@@ -144,7 +148,7 @@ p{
 }
 
 .comsci-tile.current {
-	padding: 50px 0
+	padding: 70px 0
 }
 
 .col-sm-5{
